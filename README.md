@@ -28,7 +28,7 @@ successful endeavor. I would also like to thank non-teaching staff members.
 Last, I extend our sincere thanks and appreciation to my family for supporting me a lot in 
 finalizing this project within the limited time.
 
-## Authors
+## Author
 
 - [@Shubham_Midgule](https://shubhammidgule.netlify.app/)
 
